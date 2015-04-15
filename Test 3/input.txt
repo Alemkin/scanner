@@ -1,0 +1,6 @@
+var x, 42y; /* Variable does not start with a letter */
+begin 
+	y := 123456; /* Number too long */
+	nameToooLong := y + 56; /* Name too long */
+	& @ ^ /* Invalid symbols */
+end.

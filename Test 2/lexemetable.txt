@@ -1,0 +1,36 @@
+lexeme	token type
+else	33
+read	32
+write	31
+procedure	30
+var	29
+const	28
+call	27
+do	26
+while	25
+then	24
+if	23
+end	22
+begin	21
+:=	20
+.	19
+;	18
+,	17
+)	16
+(	15
+>=	14
+>	13
+<=	12
+<	11
+<>	10
+=	9
+odd	8
+/	7
+*	6
+-	5
++	4
+12345	3
+42	3
+f00b4r	2
+foobar	2
+

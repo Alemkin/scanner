@@ -1,0 +1,16 @@
+
+else 
+read	write 
+	procedure 
+		var         const 
+		call  do 
+		while   then  	    if 
+end begin 
+
+:=
+. ; , 
+) ( 
+>= > <= < <>  = 
+odd / * - + 
+12345 42 f00b4r foobar
+ 
